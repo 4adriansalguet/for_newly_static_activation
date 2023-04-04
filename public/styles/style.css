@@ -18,7 +18,6 @@ section{
 }
 
 
-
 @font-face {
     font-family: "KunstlerScript";
     src: url("fonts/socialico/socialico-webfont.eot");
@@ -106,12 +105,6 @@ figcaption {
     margin: 0;
 }
 
-body {
-    width: 100%;
-    margin: 0 auto;
-    position: relative;
-    background: #000000;
-}
 
 @media screen and (max-width: 1200px) {
     body {

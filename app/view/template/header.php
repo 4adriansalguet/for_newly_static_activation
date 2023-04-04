@@ -22,7 +22,7 @@
 <?php $this->checkSuspensionHeader(); ?> 
 
 	<header>
-		<div id="header">
+		<!-- <div id="header">
 			<div class="header-main">
 				<div class="header-content">
 					<a href="#">FOLLOW US</a>
@@ -35,7 +35,7 @@
 					</a>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div id="menu">
 			<div class="menu-main">
